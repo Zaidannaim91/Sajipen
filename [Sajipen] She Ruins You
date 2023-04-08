@@ -1,0 +1,33 @@
+{
+   "title":"[Sajipen] She Ruins You",
+   "description":"",
+   "author":"Sajipen",
+   "artist":"Sajipen",
+   "cover":"https://i.imgur.com/SplmzTA.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/K8SGJQX"
+         },
+         "last_updated":1624606143,
+         "title":"She Ruins You",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/JohIjl6"
+         },
+         "last_updated":1624606143,
+         "title":"She Ruins You More",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/gGKfF4q"
+         },
+         "last_updated":1624606143,
+         "title":"She Really Ruins You",
+         "volume":"3"
+      }
+   }
+}
